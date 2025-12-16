@@ -1,0 +1,12 @@
+ html{
+                font-size: 22px;
+            }
+            body{
+                background-color: lch(2.27% 2.95 144.45 / 0.955);
+                color: whitesmoke;
+                p {
+  margin: 0;       /* Remove all default space */
+  padding: 0;      /* Remove padding if any */
+  line-height:1.1; /* Optional: reduce line height */
+}
+            }
